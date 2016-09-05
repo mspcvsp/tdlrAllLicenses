@@ -1,0 +1,6 @@
+{
+  "name": "Tdlralllicenses",
+  "tagline": "Python code for analyzing the Texas Department of Licensing & Regulation Open Data Set",
+  "body": "### Exploratory analysis of the Texas Department of Licensing & Regulation Open Data Set\r\n\r\n-[Harris County Cosmetology Operator Mailing Address Location Heatmap](http://mspcvsp.github.io/tdlrAllLicenses/CosmetologyOperator_HARRIS.html)  \r\n-[Harris County Apprentice Electrician Mailing Address Location Heatmap](http://mspcvsp.github.io/tdlrAllLicenses/ApprenticeElectrician_HARRIS.html)  \r\n-[Open Street Map copyright](http://www.openstreetmap.org/copyright)  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
